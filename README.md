@@ -17,7 +17,7 @@ I have been learning and building Full Stack web applications for the past 1.5 y
 
 <a href="https://www.github.com/sahasuvankar7" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sahasuvankar7?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.x.com/Suvankar1331" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Suvankar1331?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
+src="https://img.shields.io/badge/follow-%40Suvankar1331-0891b2?logo=twitter&style=for-the-badge&labelColor=000000"
 /></a>
 
 ### Skills
