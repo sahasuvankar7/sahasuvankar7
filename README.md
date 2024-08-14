@@ -1,3 +1,6 @@
+[![MasterHead](https://wallpapers.com/images/hd/1920x1080-hd-coding-ahcwb3r6y58rgebc.jpg)](https://github.com/sahasuvankar7)
+
+
 Hi 👋 My name is Suvankar Saha
 ==============================
 
@@ -32,6 +35,8 @@ src="https://img.shields.io/twitter/follow/Suvankar1331?logo=twitter&style=for-t
 ### Badges
 
 <b>My GitHub Stats</b>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sahasuvankar7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="http://www.github.com/sahasuvankar7"><img src="https://github-readme-stats.vercel.app/api?username=sahasuvankar7&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="sahasuvankar7's GitHub stats" /></a>
 
